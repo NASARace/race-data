@@ -1,13 +1,13 @@
 ## RACE Data Examples
 
 This project includes data sets and related configurations to run the 
-(NASA RACE system)[http://nasarace.github.io/race].
+[NASA RACE system](http://nasarace.github.io/race).
 
 In order to use the examples, you first have to *once*  
 
 1. install RACE itself from https://github.com/nasarace/race
-   (please see the "Installing RACE" section on the (RACE website)[http://nasarace.github.io/race])
-2. install the (Git Large File Storage Extension (git-lfs))[https://git-lfs.github.com/]
+   (please see the "Installing RACE" section on the [RACE website](http://nasarace.github.io/race))
+2. install the [Git Large File Storage Extension (git-lfs)](https://git-lfs.github.com/)
 3. clone this project with `git clone https://github.com/nasarace/race-data`
    (no need to build anything as this project only contains static data)
 
