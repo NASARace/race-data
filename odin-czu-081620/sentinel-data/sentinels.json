@@ -3,90 +3,129 @@
     {
       "deviceId":13,
       "timeRecorded":"2020-08-01T12:00:00Z",
+      "sensorNo":3,
       "gps":{
-        "sensorNo":3,
-        "timeRecorded":"2020-08-01T12:00:00Z",
         "latitude":37.328366705311865,
         "longitude":-122.10084539864476
       }
     },{
       "deviceId":14,
       "timeRecorded":"2020-08-01T12:00:00Z",
+      "sensorNo":3,
       "gps":{
-        "sensorNo":3,
-        "timeRecorded":"2020-08-01T12:00:00Z",
         "latitude":37.30393367327945,
         "longitude":-122.07266753435918
       }
     },{
       "deviceId":15,
+      "sensorNo":3,
       "timeRecorded":"2020-08-01T12:00:00Z",
       "gps":{
-        "sensorNo":3,
-        "timeRecorded":"2020-08-01T12:00:00Z",
         "latitude":37.18210495475425,
         "longitude":-121.93092180264976
       }
     },{
       "deviceId":16,
+      "sensorNo":3,
       "timeRecorded":"2020-08-01T12:00:00Z",
       "gps":{
-        "sensorNo":3,
-        "timeRecorded":"2020-08-01T12:00:00Z",
         "latitude":37.3234874848788,
         "longitude":-121.68719482230817
       }
     },{
       "deviceId":17,
+      "sensorNo":3,
       "timeRecorded":"2020-08-01T12:00:00Z",
       "gps":{
-        "sensorNo":3,
-        "timeRecorded":"2020-08-01T12:00:00Z",
         "latitude":37.53172331683265,
         "longitude":-121.90421055659455
       }
     },{
       "deviceId":18,
+      "sensorNo":3,
       "timeRecorded":"2020-08-01T12:00:00Z",
       "gps":{
-        "sensorNo":3,
-        "timeRecorded":"2020-08-01T12:00:00Z",
         "latitude":37.47730685516636,
         "longitude":-122.30874021855507
       }
     },{
       "deviceId":19,
+      "sensorNo":3,
       "timeRecorded":"2020-08-01T12:00:00Z",
       "gps":{
-        "sensorNo":3,
-        "timeRecorded":"2020-08-01T12:00:00Z",
         "latitude":37.241887,
         "longitude":-122.132033
-      },
-      "camera":{"sensorNo":5,"filename":"./camera/10800000.webp","isInfrared":false,"recordId":1080000},
-      "camera":{"sensorNo":6,"filename":"./camera/10800010.webp","isInfrared":false,"recordId":1080010}
-    },{
-      "deviceId":20,
+      }
+    }, {
+      "id":"1080000",
+      "deviceId":19,
+      "sensorNo":5,
+      "timeRecorded":"2020-08-01T12:00:00Z",
+      "image":{
+        "filename":"image/1080000.webp",
+        "isInfrared":false
+      }
+    }, {
+      "id":"1080010",
+      "deviceId":19,
+      "sensorNo":6,
+      "timeRecorded":"2020-08-01T12:00:00Z",
+      "image":{
+        "filename":"image/1080010.webp",
+        "isInfrared":false
+      }
+    }, {
+      "deviceId":"20",
+      "sensorNo":3,
       "timeRecorded":"2020-08-01T12:00:00Z",
       "gps":{
-        "sensorNo":3,
-        "timeRecorded":"2020-08-01T12:00:00Z",
         "latitude":37.233208,
         "longitude":-122.137755
-      },
-      "camera":{"sensorNo":5,"filename":"./camera/10800100.webp","isInfrared":false,"recordId":1080100},
-      "camera":{"sensorNo":6,"filename":"./camera/10800110.webp","isInfrared":false,"recordId":1080110}
-    },{
-      "deviceId":21,
+      }
+    }, {
+      "id":"1080100",
+      "deviceId":"20",
+      "sensorNo":5,
+      "timeRecorded":"2020-08-01T12:00:00Z",
+      "image":{
+        "filename":"image/1080100.webp",
+        "isInfrared":false
+      }
+    }, {
+      "id":"1080110",
+      "deviceId":"20",
+      "sensorNo":6,
+      "timeRecorded":"2020-08-01T12:00:00Z",
+      "image":{
+        "filename":"image/1080110.webp",
+        "isInfrared":false
+      }
+    }, {
+      "deviceId":"21",
+      "sensorNo":3,
       "timeRecorded":"2020-08-01T12:00:00Z",
       "gps":{
-        "sensorNo":3,
-        "timeRecorded":"2020-08-01T12:00:00Z",
         "latitude":37.226772,
         "longitude":-122.141931
-      },
-      "camera":{"sensorNo":5,"filename":"./camera/10800200.webp","isInfrared":false,"recordId":1080200},
-      "camera":{"sensorNo":6,"filename":"./camera/10800210.webp","isInfrared":false,"recordId":1080210}
+      }
+    }, {
+      "id":"1080200",
+      "deviceId":"21",
+      "sensorNo":4,
+      "timeRecorded":"2020-08-01T12:00:00Z",
+      "image":{
+        "filename":"image/1080200.webp",
+        "isInfrared":false
+      }
+    }, {
+      "id":"1080210",
+      "deviceId":"21",
+      "sensorNo":5,
+      "timeRecorded":"2020-08-01T12:00:00Z",
+      "image":{
+        "filename":"image/1080210.webp",
+        "isInfrared":false
+      }
     }
   ]
 }
