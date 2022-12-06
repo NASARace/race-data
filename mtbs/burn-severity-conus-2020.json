@@ -1,0 +1,8 @@
+[
+  {"color":"#196400", "code":"1", "descr":"unburned to low"},
+  {"color":"#7fffd4", "code":"2", "descr":"low"},                 
+  {"color":"#faff00", "code":"3", "descr":"moderate"},
+  {"color":"#f10704", "code":"4", "descr":"high"},
+  {"color":"#7fff02", "code":"5", "descr":"increased greenness"},
+  {"color":"#ffffff", "code":"6", "descr":"non-processing area mask"}
+]
