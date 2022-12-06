@@ -1,6 +1,6 @@
 0000017417cd88e0,00000019
 TaggedStringArchiveWriter
-00000fa0,00001410
+00000fa0,0000140e
 {"data":[
 {"id":1065375,"timeRecorded":1598127179,"sensorNo":0,"deviceId":14,"gyroscope":{"gx":0.00932116136669544,"gy":0.034117092000330085,"gz":0.03534578009433527}},
 {"id":1065376,"timeRecorded":1598127179,"sensorNo":0,"deviceId":14,"accelerometer":{"ax":9.819390010346682,"ay":0.013587189823052835,"az":0.014736650128474704}},
@@ -33,7 +33,7 @@ TaggedStringArchiveWriter
 {"id":1061610,"timeRecorded":1598127183,"sensorNo":0,"deviceId":17,"gyroscope":{"gx":-0.026009315272385904,"gy":0.0380723667491431,"gz":-0.002991594964484201}},
 {"id":1061618,"timeRecorded":1598127183,"sensorNo":1,"deviceId":17,"thermometer":{"temperature":27.450698086823135}},
 {"id":1061619,"timeRecorded":1598127188,"sensorNo":9,"deviceId":21,"fire":{"fireProb":0.8}},
-{"id":1061620,"timeRecorded":1598127188,"sensorNo":2,"deviceId":21,"voc":{"TVOC":0.42,"eCO2":420}},
+{"id":1061620,"timeRecorded":1598127188,"sensorNo":2,"deviceId":21,"voc":{"TVOC":42,"eCO2":420}},
 {"id":1080201,"timeRecorded":1598127188,"sensorNo":4,"deviceId":21,"image":{"filename":"image/1080201.webp","isInfrared":false}},
 {"id":1080211,"timeRecorded":1598127188,"sensorNo":5,"deviceId":21,"image":{"filename":"image/1080211.webp","isInfrared":false}}
 ],"count":34}
