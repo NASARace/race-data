@@ -1,0 +1,61 @@
+{
+    "fireSummary": {
+        "year": 2018,
+        "name": "Camp",
+        "uniqueId": "2018-CABTU-016737",
+        "irwinId": "{75E64DB8-9B75-4A68-BEDD-67CC62658E38}",
+        "inciwebId": "6250",
+
+        "start": "2018-11-08",
+        "contained": "2018-11-25",
+        "end": "2018-11-25",
+        
+        "location": { "lat": 39.810278, "lon": -121.437222 },
+        "acres": 153336,
+
+        "ignitions": [
+            { "datetime": "2018-11-08T14:33:00Z", "lat": 39.810278, "lon": -121.437222, "name": "Camp Fire", "cause": "power line failure" }
+        ],
+
+        "perimeters": [ 
+	    { "datetime": "2018-11-08T17:54:00Z",  "acres": 54586.4327952, "agency": "CDF", "method": "Infrared Image" },
+	    { "datetime": "2018-11-09T00:00:00Z",  "acres": 70454.1003422, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-09T19:02:00Z",  "acres": 109502.882411, "agency": "CDF", "method": "Infrared Image" },
+	    { "datetime": "2018-11-09T23:13:00Z",  "acres": 108838.201625, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-10T01:04:00Z",  "acres": 111552.361975, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-10T21:10:00Z",  "acres": 114866.20788 , "agency": "CDF", "method": "Infrared Image" },
+	    { "datetime": "2018-11-11T18:48:00Z",  "acres": 128799.057737, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-12T00:30:59Z",  "acres": 130394.422837, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-12T22:05:00Z",  "acres": 138127.03849 , "agency": "CDF", "method": "Infrared Image" }, 
+	    { "datetime": "2018-11-13T02:52:59Z",  "acres": 128816.409733, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-13T17:50:00Z",  "acres": 145254.236747, "agency": "CDF", "method": "Infrared Image" },
+	    { "datetime": "2018-11-14T02:58:00Z",  "acres": 136635.531759, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-14T21:39:00Z",  "acres": 149511.762816, "agency": "CDF", "method": "Infrared Image" },
+	    { "datetime": "2018-11-15T03:13:00Z",  "acres": 142806.784678, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-15T17:42:59Z",  "acres": 151575.190501, "agency": "CDF", "method": "Infrared Image" },
+	    { "datetime": "2018-11-16T12:51:00Z",  "acres": 145134.810595, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-16T20:12:00Z",  "acres": 149688.698171, "agency": "CDF", "method": "Infrared Image" },
+	    { "datetime": "2018-11-17T01:37:00Z",  "acres": 148238.313415, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-17T18:40:00Z",  "acres": 150690.410067, "agency": "CDF", "method": "Infrared Image" },
+	    { "datetime": "2018-11-17T23:52:59Z",  "acres": 150628.489494, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-18T17:45:00Z",  "acres": 151428.78211 , "agency": "CDF", "method": "Infrared Image" },
+	    { "datetime": "2018-11-18T22:20:00Z",  "acres": 151472.373839, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-19T18:43:59Z",  "acres": 152761.345532, "agency": "CDF", "method": "Infrared Image" },
+	    { "datetime": "2018-11-19T22:47:59Z",  "acres": 151514.980202, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-20T18:08:00Z",  "acres": 153438.274457, "agency": "CDF", "method": "Infrared Image" },
+	    { "datetime": "2018-11-20T20:05:00Z",  "acres": 152687.786897, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-21T21:04:59Z",  "acres": 153335.565462, "agency": "CDF", "method": "Mixed Methods"  },
+	    { "datetime": "2018-11-25T18:21:59Z",  "acres": 153335.565462, "agency": "CDF", "method": "Mixed Methods"  }         
+        ],
+
+        "containment": [],
+
+        "resources": [],
+
+        "wind": [],
+
+        "structures": [],
+
+        "casualties": []
+    }
+}

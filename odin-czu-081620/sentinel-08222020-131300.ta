@@ -1,6 +1,6 @@
 0000017417cd88e0,00000019
 TaggedStringArchiveWriter
-00000fa0,0000140e
+00000fa0,0000146e
 {"data":[
 {"id":1065375,"timeRecorded":1598127179,"sensorNo":0,"deviceId":14,"gyroscope":{"gx":0.00932116136669544,"gy":0.034117092000330085,"gz":0.03534578009433527}},
 {"id":1065376,"timeRecorded":1598127179,"sensorNo":0,"deviceId":14,"accelerometer":{"ax":9.819390010346682,"ay":0.013587189823052835,"az":0.014736650128474704}},
@@ -33,10 +33,20 @@ TaggedStringArchiveWriter
 {"id":1061610,"timeRecorded":1598127183,"sensorNo":0,"deviceId":17,"gyroscope":{"gx":-0.026009315272385904,"gy":0.0380723667491431,"gz":-0.002991594964484201}},
 {"id":1061618,"timeRecorded":1598127183,"sensorNo":1,"deviceId":17,"thermometer":{"temperature":27.450698086823135}},
 {"id":1061619,"timeRecorded":1598127188,"sensorNo":9,"deviceId":21,"fire":{"fireProb":0.8}},
+{"id":1061621,"timeRecorded":1598127188,"sensorNo":9,"deviceId":21,"smoke":{"smokeProb":0.95}},
 {"id":1061620,"timeRecorded":1598127188,"sensorNo":2,"deviceId":21,"voc":{"TVOC":42,"eCO2":420}},
 {"id":1080201,"timeRecorded":1598127188,"sensorNo":4,"deviceId":21,"image":{"filename":"image/1080201.webp","isInfrared":false}},
 {"id":1080211,"timeRecorded":1598127188,"sensorNo":5,"deviceId":21,"image":{"filename":"image/1080211.webp","isInfrared":false}}
 ],"count":34}
+0000a000,000003a8
+{"data":[
+{"id":1065301,"timeRecorded":1598127200,"sensorNo":1,"deviceId":21,"gas":{"gas":100637,"humidity":41.141821181780784,"pressure":994.1361413254194,"altitude":272.40547871768297}},
+{"id":1063873,"timeRecorded":1598127200,"sensorNo":0,"deviceId":21,"accelerometer":{"ax":9.83160209806374,"ay":0.043895317000154546,"az":0.019974569872693627}},
+{"id":1063874,"timeRecorded":1598127200,"sensorNo":0,"deviceId":21,"magnetometer":{"mx":209.2148515901995,"my":-31.329703049398695,"mz":70.68558545615305}},
+{"id":1063872,"timeRecorded":1598127200,"sensorNo":0,"deviceId":21,"gyroscope":{"gx":-0.007528528788199796,"gy":-0.04453471625150665,"gz":0.002438878680225699}},
+{"id":1063877,"timeRecorded":1598127200,"sensorNo":1,"deviceId":21,"thermometer":{"temperature":25.621947108793247}},
+{"id":1065878,"timeRecorded":1598127200,"sensorNo":8,"deviceId":21,"anemometer":{"angle":324.2628274722738,"speed":0.04973375738796704}}
+],"count":6}
 0000abe0,00002c6b
 {"data":[
 {"id":1065937,"timeRecorded":1598127219,"sensorNo":4,"deviceId":13,"image":{"filename":"image/572e20d1-7cea-4f30-a118-a12300254fce.webp","isInfrared":false}},
@@ -238,6 +248,13 @@ TaggedStringArchiveWriter
 {"id":1061666,"timeRecorded":1598127303,"sensorNo":0,"deviceId":17,"accelerometer":{"ax":9.873936443087105,"ay":-0.012758924084408674,"az":-0.002298146721076096}},
 {"id":1055075,"timeRecorded":1598127303,"sensorNo":1,"deviceId":18,"thermometer":{"temperature":26.309129006222793}}
 ],"count":60}
+00028080,00000226
+{"data":[
+{"id":1066040,"timeRecorded":1598127320,"sensorNo":1,"deviceId":21,"gas":{"gas":100230,"humidity":42.36687096958079,"pressure":991.328356163412,"altitude":271.4524432750073}},
+{"id":1066041,"timeRecorded":1598127320,"sensorNo":2,"deviceId":21,"voc":{"TVOC":0,"eCO2":400}},
+{"id":1066042,"timeRecorded":1598127320,"sensorNo":1,"deviceId":21,"thermometer":{"temperature":26.331827612202364}},
+{"id":1066043,"timeRecorded":1598127320,"sensorNo":8,"deviceId":21,"anemometer":{"angle":315.45875972356168,"speed":0.4367199610819007}}
+],"count":4}
 000280a0,00002295
 {"data":[
 {"id":1066051,"timeRecorded":1598127339,"sensorNo":2,"deviceId":13,"voc":{"TVOC":0,"eCO2":400}},
@@ -551,6 +568,13 @@ TaggedStringArchiveWriter
 {"id":1055221,"timeRecorded":1598127503,"sensorNo":4,"deviceId":18,"image":{"filename":"image/fdfda804-797d-463b-9147-45938ee5c41f.webp","isInfrared":false}},
 {"id":1055226,"timeRecorded":1598127503,"sensorNo":6,"deviceId":18,"image":{"filename":"image/618393b6-5e75-497a-a8d4-1bd34ee353c3.webp","isInfrared":true}}
 ],"count":70}
+00058d00,0000022a
+{"data":[
+{"id":1061815,"timeRecorded":1598127520,"sensorNo":2,"deviceId":21,"voc":{"TVOC":96,"eCO2":728}},
+{"id":1066205,"timeRecorded":1598127520,"sensorNo":1,"deviceId":21,"gas":{"gas":100273,"humidity":40.724228948752675,"pressure":991.6620916562715,"altitude":270.99230683969176}},
+{"id":1055270,"timeRecorded":1598127520,"sensorNo":8,"deviceId":21,"anemometer":{"angle":333.64363815093412,"speed":0.3728430700192976}},
+{"id":1066210,"timeRecorded":1598127520,"sensorNo":1,"deviceId":21,"thermometer":{"temperature":26.631811835171355}}
+],"count":4}
 00058de0,000018d3
 {"data":[
 {"id":1066201,"timeRecorded":1598127539,"sensorNo":0,"deviceId":13,"gyroscope":{"gx":0.026991869009918425,"gy":-0.02564210349072621,"gz":-0.013070973904220151}},
@@ -598,6 +622,13 @@ TaggedStringArchiveWriter
 {"id":1055272,"timeRecorded":1598127543,"sensorNo":0,"deviceId":18,"accelerometer":{"ax":9.825829319681901,"ay":0.021931931554962328,"az":0.03547242851585691}},
 {"id":1055274,"timeRecorded":1598127543,"sensorNo":1,"deviceId":18,"gas":{"gas":100734,"humidity":41.152325967471995,"pressure":989.9553725148655,"altitude":271.315319354679}}
 ],"count":44}
+00062000,0000022c
+{"data":[
+{"id":1064040,"timeRecorded":1598127560,"sensorNo":2,"deviceId":21,"voc":{"TVOC":100,"eCO2":820}},
+{"id":1064041,"timeRecorded":1598127560,"sensorNo":8,"deviceId":21,"anemometer":{"angle":320.6291031972074,"speed":0.004437610795804903}},
+{"id":1064042,"timeRecorded":1598127560,"sensorNo":1,"deviceId":21,"gas":{"gas":100273,"humidity":40.724228948752675,"pressure":991.6620916562715,"altitude":270.99230683969176}},
+{"id":1064043,"timeRecorded":1598127560,"sensorNo":1,"deviceId":21,"thermometer":{"temperature":27.475882927091593}}
+],"count":4}
 00062a20,00001475
 {"data":[
 {"id":1066211,"timeRecorded":1598127579,"sensorNo":2,"deviceId":13,"voc":{"TVOC":0,"eCO2":400}},
